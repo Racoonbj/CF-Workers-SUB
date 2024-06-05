@@ -14,6 +14,7 @@ let timestamp = 4102329600000;//2099-12-31
 let MainData = `
 https://newvless.bigracoon.filegear-sg.me/371964c0-368a-40c4-8e63-fa141afbc8d4
 https://test.zhangfang.dynv6.net/359be37a-f6f4-4ee1-952f-1c9f5b890559
+https://dinyue.bigracoon.filegear-sg.me/auto
 `
 
 let urls = [];
